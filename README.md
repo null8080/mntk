@@ -2,6 +2,8 @@
 Just the way I like to build things.
 
 
+
+
 # Usage
 The core constructor is called "$X", because I'm bad at naming things.
 MNTK, NTK & Toolkit were other names I decided not to use because I have crippling ADHD.
@@ -20,8 +22,9 @@ var $ = new $X();
 
 ## Server
 ```javascript
+// npm install mntk
 var $X = require('mntk');
-$ = new Toolkit();
+$ = new $X();
 // ...
 ```
 
