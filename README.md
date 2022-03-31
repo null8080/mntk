@@ -7,7 +7,7 @@ Just the way I like to build things.
 # Usage
 The core constructor is called "$X", because I'm bad at naming things.
 MNTK, NTK & Toolkit were other names I decided not to use because I have crippling ADHD.
-So I settled on "$X" because it is unassuming, short and look's cooler anyway.
+So I settled on "$X" because it is unassuming, short and looks cooler anyway.
 
 
 ## Browser
