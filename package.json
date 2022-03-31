@@ -1,8 +1,8 @@
 {
   "name": "mntk",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "Mr Null's Toolkit",
-  "main": "mntk.js",
+  "main": "mntk.min.js",
   "author": "MrNull.io",
   "license": "ISC"
 }
